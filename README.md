@@ -57,8 +57,6 @@ API root URL: [http://localhost:8080/api/](http://localhost:8080/api/)
 | GET     | /transfers | get all transfers |
 | GET     | /transfers/{transferId} | get transfer by id |
 | POST    | /transfers/ | create a new transfer |
-| PUT     | /transfers/ | update transfer |
-| DELETE  | /transfers/{transferId}     | remove transfer |
 | GET     | /transfers/{transferId}/rate | get rate by transfer id |
 
 #### Rate resource ( [/api/rates](http://localhost:8080/api/rates) )
