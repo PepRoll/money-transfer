@@ -1,6 +1,8 @@
 # About
 
 Test project RESTful API for money transfers between internal users and accounts
+
+[![Build Status](https://travis-ci.org/PepRoll/money-transfer.svg?branch=master)](https://travis-ci.org/PepRoll/money-transfer)
  
 The application using:
 * akka-http
